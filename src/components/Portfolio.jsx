@@ -45,7 +45,7 @@ const portfolio = () => {
                         <p className='py-1 text-gray-400'>{title}</p>
                     </div>
                     <div className='flex items-center justify-center'>
-                        <a href = {href}><button  className='w-1/2 px-6 py-2 m-2 duration-200 hover:scale-105'>Code</button></a>
+                        <a href = {href}><button  className='w-1/2 px-6 py-3 m-2 duration-200 hover:scale-105'>Code</button></a>
                     </div>
                 </div>  
                 ))
