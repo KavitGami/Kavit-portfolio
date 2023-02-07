@@ -29,7 +29,7 @@ const NavBar = () => {
   return (
     <div className = "flex justify-between items-center w-full h-20 px-4 text-white bg-black fixed">
         <div>
-            <h1 className='text-5xl font-bold text-white font-signature ml-2'>Kavit Gami</h1>
+            <h1 className='text-5xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-gray-200 to-gray-300 font-signature ml-2'>Kavit Gami</h1>
         </div>
 
         <ul className='hidden md:flex'>

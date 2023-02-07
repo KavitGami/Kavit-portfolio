@@ -7,8 +7,8 @@ const Home = () => {
     <div name="home" className='flex h-screen w-full bg-gradient-to-b from-black via-black to-gray-800'>
         <div className='max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row'>
             <div className=' flex flex-col justify-center h-full'>
-                <h2 className=' text-4xl sm:text-7xl font-bold text-white'>I'm a Software Developer.</h2>
-                <p className='text-gray-500 py-4 max-w-md'>I am a fourth year Computer science student seeking internship opportunities to improve skills in Software Development, Machine
+                <h2 className=' text-4xl sm:text-7xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-gray-200 to-gray-300'>I'm a Software Developer.</h2>
+                <p className='text-gray-400 py-4 max-w-md'>I am a fourth year Computer science student seeking internship opportunities to improve skills in Software Development, Machine
                 Learning and AI, collaborate with others and learn new Software tools and technologies.
                 </p>
                 <div>
