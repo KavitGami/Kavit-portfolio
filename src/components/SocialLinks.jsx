@@ -12,7 +12,7 @@ const SocialLinks = () => {
                 </>
 
             ),
-            href: 'https://LinkedIn.com',
+            href: 'https://www.linkedin.com/in/kavitgami/',
             style: 'rounded-tr-md'
         },
         {
