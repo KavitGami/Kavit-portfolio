@@ -7,7 +7,7 @@ const About = () => {
             <div className='pb-8'>
                 <p className='text-4xl font-bold inline border-b-4 border-gray-500'>About</p>
             </div>
-            <p className='text-xl mt-20'>Hello and welcome to my website! My name is Kavit Gami, and I am a computer science student with a strong passion for programming and software development. I have a broad range of technical skills and knowledge, including proficiency in programming languages such as Python, HTML, CSS, and JavaScript.
+            <p className='text-xl mt-5'>Hello and welcome to my website! My name is Kavit Gami, and I am a computer science student with a strong passion for programming and software development. I have a broad range of technical skills and knowledge, including proficiency in programming languages such as Python, HTML, CSS, and JavaScript.
 
 As a computer science student, I have gained a deep understanding of algorithms and software development principles, which I have applied to a variety of projects and challenges. Whether it's developing a website, creating a habit tracking app, or using regex to find all instances of Dates being used in newspaper articles, I approach each task with creativity, critical thinking, and a strong attention to detail.</p>
             <br />
