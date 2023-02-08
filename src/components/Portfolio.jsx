@@ -2,7 +2,7 @@ import React from 'react'
 import regex from '..//assets/portfolio/regex.png'
 import pos from '..//assets/portfolio/pos.png'
 import habiteer from '..//assets/portfolio/habiteer.png'
-
+import quiz from '..//assets/portfolio/quiz.jpg'
 const portfolio = () => {
     const portfolio = [
         {
@@ -23,6 +23,13 @@ const portfolio = () => {
             href:'https://github.com/UOFA-INTRO-NLP-F21/f2021-asn4-parz1val-13',
             title: 'Hmm and POS Tagging'
         },
+                {
+            id:4,
+            src:quiz,
+            href:'https://github.com/KavitGami/Quiz-App',
+            title: 'React Quiz App'
+        },
+
         
     ]
   return (
