@@ -34,7 +34,7 @@ const SocialLinks = () => {
                 </>
 
             ),
-            href: 'mailto:gami@ualberta.ca',
+            href: 'mailto:kavit.gami@gmail.com',
 
         },
         
@@ -46,7 +46,7 @@ const SocialLinks = () => {
                 </>
 
             ),
-            href: 'resume.pdf',
+            href: 'resume_2.pdf',
             style: 'rounded-br-md',
             download:true,
         },

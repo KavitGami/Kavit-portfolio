@@ -3,28 +3,36 @@ import regex from '..//assets/portfolio/regex.png'
 import pos from '..//assets/portfolio/pos.png'
 import habiteer from '..//assets/portfolio/habiteer.png'
 import quiz from '..//assets/portfolio/quiz.jpg'
+import petapp from '..//assets/portfolio/petapp.jpg'
 const portfolio = () => {
     const portfolio = [
         {
             id:1,
+            src:petapp,
+            href:'https://www.youtube.com/watch?v=XIhJieyvuSM&t=1s',
+            title:'Pet App'
+            
+        },
+        {
+            id:2,
             src:habiteer,
             href:'https://github.com/CMPUT301F21T30/Habiteer',
             title:'Habit Tracking App'
         },
         {
-            id:2,
+            id:3,
             src:regex,
             href:'https://github.com/UOFA-INTRO-NLP-F21/assn1_fsa_regex-parz1val-13',
             title: 'Regex'
         },
         {
-            id:3,
+            id:4,
             src:pos,
             href:'https://github.com/UOFA-INTRO-NLP-F21/f2021-asn4-parz1val-13',
             title: 'Hmm and POS Tagging'
         },
                 {
-            id:4,
+            id:5,
             src:quiz,
             href:'https://github.com/KavitGami/Quiz-App',
             title: 'React Quiz App'
